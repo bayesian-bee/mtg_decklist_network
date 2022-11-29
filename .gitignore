@@ -1,0 +1,11 @@
+*.json
+.ipynb_checkpoints/
+__pycache__
+spark-warehouse/
+.git
+lib/
+*.parquet
+relevance_scores_parquet/*
+*.html
+!relevance_graph.json
+scrape_mtgtop8.ipynb
